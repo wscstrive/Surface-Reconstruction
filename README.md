@@ -50,3 +50,7 @@ It serves as a collection of surface-reconstruction–related papers that I come
 - __MGSR: 2D/3D Mutual-boosted Gaussian Splatting for High-fidelity Surface Reconstruction under Various Light Conditions.__ _Qingyuan Zhou et.al._ __ICCV, 2025.__ [[`Paper`](https://arxiv.org/pdf/2503.05182)] [[`Code`](https://github.com/TsingyuanChou/MGSR)] (Unread)
 
 - __MILo: Mesh-In-the-Loop Gaussian Splatting for Detailed and Efficient Surface Reconstruction.__ _Antoine Guédon, Diego Gomez et.al._ __TOG, 2025.__ [[`Paper`](https://arxiv.org/pdf/2506.24096)] [[`Code`](https://github.com/Anttwo/MILo)] (Unread)
+- 
+
+reference
+High-Quality Surface Splatting on Today's GPUs. gaussian filter in 2dgs
