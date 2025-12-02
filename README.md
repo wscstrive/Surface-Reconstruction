@@ -1,10 +1,10 @@
 # Introduction
 
-This repository serves as my personal notebook, collecting papers on surface reconstruction that I encounter anytime, anywhere.
-
+This repository is my personal research notebook.  
+It serves as a collection of surface-reconstruction–related papers that I come across anytime and anywhere.
 
 ## Paper lists
-> This repo. just roughly records the contributions of each paper. My notes are mainly recorded on Notion.
+> This repo. just roughly records the contributions of each paper (Why->What->How). My notes are mainly recorded on Notion.
 
 ![Static Badge](https://img.shields.io/badge/Surface_Reconstruction-%E8%9C%98%E8%9B%9B%E7%A7%91%E5%AD%A6%E5%AE%B6-critical?style=flat&logo=notion&labelColor=auto&link=https%3A%2F%2Fwww.notion.so%2FNotes-2b13db23b7038076a17bef7408d980e7%3Fsource%3Dcopy_link)
 
@@ -76,10 +76,5 @@ This repository serves as my personal notebook, collecting papers on surface rec
 - __GVKF: Gaussian Voxel Kernel Functions for Highly Efficient Surface Reconstruction in Open Scenes.__ _Gaochao Song, Chong Cheng et.al._ __NeurIPS, 2025.__ [[`Paper`](https://arxiv.org/pdf/2411.01853)] [[`Code`](https://github.com/3DAgentWorld/GVKF/tree/main)] [[`Note`]()]
 
 
-## Books
+## Extension
 
-- __Fundamentals of Computer Graphics, 5th Edition.__ _Steve Marschner, Peter Shirley._ __2021.__ [[`Book`](https://drive.google.com/file/d/1ChDgEA433GUs5rrW9fluiWHn6VCoj4o_/view?usp=drive_link)]
-
-## Sources
-
-- __GAMES101: 现代计算机图形学入门.__ _Lingqi Lin et.al._ [[`Video`](https://www.bilibili.com/video/BV1X7411F744/)]
