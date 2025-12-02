@@ -53,4 +53,5 @@ It serves as a collection of surface-reconstruction–related papers that I come
 - 
 
 reference
-High-Quality Surface Splatting on Today's GPUs. gaussian filter in 2dgs
+- High-Quality Surface Splatting on Today's GPUs. gaussian filter in 2dgs
+  - anti-aliasing in magnified as well as in minified regions
