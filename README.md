@@ -30,8 +30,7 @@ It serves as a collection of surface-reconstruction–related papers that I come
   
 - __GS-2M: Gaussian Splatting for Joint Mesh Reconstruction and Material Decomposition.__ _D. M. Nguyen et.al._ __ArXiv, 2025.__ [[`Paper`](https://arxiv.org/pdf/2509.22276)] [[`Code`](https://github.com/ndming/GS-2M/tree/main)] [[`Note`]()] (Unread)
 
-
-
+- __VCR-GauS: View Consistent Depth-Normal Regularizer for Gaussian Surface Reconstruction.__ _Hanlin Chen et.al._ __NIPS, 2024.__ [[`Paper`](https://proceedings.neurips.cc/paper_files/paper/2024/file/fc9f83d9925e6885e8f1ae1e17b3c44b-Paper-Conference.pdf)] [[`Code`](https://github.com/HLinChen/VCR-GauS)]
 
 ## Extension (Preparing)
 
