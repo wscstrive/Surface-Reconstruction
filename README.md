@@ -8,6 +8,10 @@ It serves as a collection of surface-reconstruction–related papers that I come
 
 ![Static Badge](https://img.shields.io/badge/Surface_Reconstruction-%E8%9C%98%E8%9B%9B%E7%A7%91%E5%AD%A6%E5%AE%B6-critical?style=flat&logo=notion&labelColor=auto&link=https%3A%2F%2Fwww.notion.so%2FNotes-2b13db23b7038076a17bef7408d980e7%3Fsource%3Dcopy_link)
 
+- __NeuSG: Neural Implicit Surface Reconstruction with 3D Gaussian Splatting Guidance.__ _Hanlin Chen et.al._ __ArXiv, 2023.__ [[`Paper`](https://arxiv.org/pdf/2312.00846)] [`No Code`] ((★☆☆☆☆))
+  - Scale regularization.
+  - Surface normal alignment of NeuS.
+
 - __SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering.__ _Antoine Guédon, Vincent Lepetit._ __CVPR, 2024.__ [[`Paper`](https://arxiv.org/pdf/2311.12775)] [[`Code`](https://github.com/Anttwo/SuGaR)] (★★☆☆☆)(No reading code)
   - To reduce interference from overlapping Gaussians, the Gaussian nearest to the point $p$ is selected. \
     The SDF is then defined by shortening the distance along its smallest scale axis, and this estimated SDF is regularized toward the ground-truth SDF to achieve surface alignment.
