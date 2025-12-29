@@ -70,7 +70,7 @@ dtu_dataset
     mv ./dtu/dtu_eval/SampleSet/MVS\ Data/ObsMask/ ./dtu/dtu_eval/
     rm -rf dtu/dtu_eval/SampleSet/
     ```
-- Points files can be found by downloading the Points.zip files that came from the MVS dataset website.
+- Points files can be found by downloading the Points.zip files from the MVS dataset website.
 ## Tanks and Temples dataset
 
 
