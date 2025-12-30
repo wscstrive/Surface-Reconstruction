@@ -46,7 +46,7 @@ dtu_dataset
 │   │   ├── cameras.npz
 │   │   ├── database.db
 │   │   └── points.ply
-│   └── ...
+│   ...
 └── dtu_eval
     ├── ObsMask
     │   ├── ObsMask1_10.mat
@@ -95,5 +95,5 @@ m360_dataset
 │   │       ├── images.bin
 │   │       └── points3d.bin
 │   └── poses_bounds.npy
- ...
+...
 ```
