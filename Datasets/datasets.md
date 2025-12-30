@@ -72,8 +72,22 @@ dtu_dataset
     ```
 - Points files can be found by downloading the Points.zip files from the MVS dataset website.
 ## Tanks and Temples dataset
-
-
+### 1. Firstly, you will need to download preprocessed datas from TNT official website.
+- Training Data (ground truth, image set)
+- Results on Training Data (Reconstruction, Camera Poses, Alignment, Cropfiles)
+```
+tnt_dataset
+├── Barn
+│   ├── images_raw
+│   │   ├── 000001.jpg
+│   │   ...
+│   ├── Barn.json
+│   ├── Barn.ply
+│   ├── Barn_COLMAP_SfM.log
+│   └── Barn_trans.txt
+...
+```
+### 2. Secondly, you will need use convert.py to 
 ## MipNeRF360 dataset
 ### The first Method. We will download the Mip-NeRF 360 dataset from [<u>the official website</u>](https://jonbarron.info/mipnerf360/)
 - Dataset Pt.1 (__include__ bicycle, bonsai, counter, garden, kitchen, room, stump)
