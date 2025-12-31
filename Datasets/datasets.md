@@ -87,7 +87,13 @@ tnt_dataset
 │   └── Barn_trans.txt
 ...
 ```
-### 2. Secondly, you will need use convert.py to 
+### 2. Secondly, you will need to follow the official website's steps to download Colmap.
+```
+```
+### 3. Thirdly, you can use convert.py to generate the related files, as shown below:
+```
+
+```
 ## MipNeRF360 dataset
 ### The first Method. We will download the Mip-NeRF 360 dataset from [<u>the official website</u>](https://jonbarron.info/mipnerf360/)
 - Dataset Pt.1 (__include__ bicycle, bonsai, counter, garden, kitchen, room, stump)
