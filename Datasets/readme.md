@@ -3,9 +3,9 @@ There are three mainstream datasets being used for Gaussian Splatting-based Surf
 > I will record where I got them from and how I converted them to the format suitable for SR models.  
 > And also, I provided these three processed datasets in Google Drive.  
 > 
-- dtu_dataset
-- tnt_dataset
-- m360_dataset
+- [__dtu_dataset__](https://drive.google.com/file/d/1BSvJMUE-HOfIyTxxXe_olUXKa5Q6zCsZ/view?usp=drive_link)
+- [__tnt_dataset__](https://drive.google.com/file/d/1fJwynirg-L6cnjuKqfETeGZp3LZYv3t0/view?usp=drive_link)
+- [__m360_dataset__](https://drive.google.com/file/d/1Ob-oWy5f9bTPb5BbY6Okt5EVPN4EzT-1/view?usp=drive_link)
 
 The total dataset folder is like this:
 

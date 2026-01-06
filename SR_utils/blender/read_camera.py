@@ -115,13 +115,13 @@ def print_all_cameras(json_path):
     def process_obj(obj):
         if isinstance(obj, dict) and "rotation" in obj and "id" in obj:
             print("\n=======================================")
-            print(f"📌 Camera id: {obj['id']}")
+            print(f"Camera id: {obj['id']}")
             print(json.dumps(obj, indent=4, ensure_ascii=False))
 
             rot = obj["rotation"]
             euler = rot_2_euler_in_blender(rot)
 
-            print("\n🎯 Euler XYZ (Degrees)：")
+            print("Euler XYZ (Degrees)：")
             print(f"X = {euler[0]}")
             print(f"Y = {euler[1]}")
             print(f"Z = {euler[2]}")
