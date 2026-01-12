@@ -8,8 +8,8 @@ It serves as a collection of surface-reconstruction–related papers that I come
 
 ![Static Badge](https://img.shields.io/badge/Surface_Reconstruction-%E8%9C%98%E8%9B%9B%E7%A7%91%E5%AD%A6%E5%AE%B6-critical?style=flat&logo=notion&labelColor=auto&link=https%3A%2F%2Fwww.notion.so%2FNotes-2b13db23b7038076a17bef7408d980e7%3Fsource%3Dcopy_link)
 
-- __NeuSG: Neural Implicit Surface Reconstruction with 3D Gaussian Splatting Guidance.__ _Hanlin Chen et.al._ __ArXiv, 2023.__ [[`Paper`](https://arxiv.org/pdf/2312.00846)] [`No Code`] (★☆☆☆☆)
-  - Scale regularization.
+- __NeuSG: Neural Implicit Surface Reconstruction with 3D Gaussian Splatting Guidance.__ _Hanlin Chen et.al._ __ArXiv, 2023.__ [[`Paper`](https://arxiv.org/pdf/2312.00846)] [`No Code`] (★★☆☆☆)
+  - Scale regularization (the basis of follow-up 3d Gaussian planes).
   - Surface normal alignment of NeuS.
 
 - __SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering.__ _Antoine Guédon, Vincent Lepetit._ __CVPR, 2024.__ [[`Paper`](https://arxiv.org/pdf/2311.12775)] [[`Code`](https://github.com/Anttwo/SuGaR)] (★★☆☆☆)(No reading code)
@@ -36,6 +36,7 @@ It serves as a collection of surface-reconstruction–related papers that I come
 
 - __VCR-GauS: View Consistent Depth-Normal Regularizer for Gaussian Surface Reconstruction.__ _Hanlin Chen et.al._ __NIPS, 2024.__ [[`Paper`](https://proceedings.neurips.cc/paper_files/paper/2024/file/fc9f83d9925e6885e8f1ae1e17b3c44b-Paper-Conference.pdf)] [[`Code`](https://github.com/HLinChen/VCR-GauS)]
 
+  - 
 ## Extension (Preparing)
 
 - __GVKF: Gaussian Voxel Kernel Functions for Highly Efficient Surface Reconstruction in Open Scenes.__ _Gaochao Song, Chong Cheng et.al._ __NeurIPS, 2025.__ [[`Paper`](https://arxiv.org/pdf/2411.01853)] [[`Code`](https://github.com/3DAgentWorld/GVKF/tree/main)] [[`Note`]()]
